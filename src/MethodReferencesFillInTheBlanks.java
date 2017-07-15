@@ -6,8 +6,6 @@ public class MethodReferencesFillInTheBlanks {
 		
 		//Stream.of("", "b", "bc").forEach(_____________________);
 		
-		//Stream.of("b", "bc").filter(__________________).forEach(System.out::println);
-		
 		//Stream.of("", "b", "bc").filter(_______).forEach(System.out::println);
 	
 	}
