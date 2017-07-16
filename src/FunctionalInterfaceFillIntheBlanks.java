@@ -16,5 +16,4 @@ public class FunctionalInterfaceFillIntheBlanks {
 		//___________ ex = x -> "".equals(x.get(0));
 		
 	}
-
 }
