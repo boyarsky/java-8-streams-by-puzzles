@@ -4,7 +4,9 @@ public class MoreLogic {
 
 	public static void main(String[] args) {
 		List<String> matchingList = Arrays.asList(
-	        "calf", "dolphin", "manatee", "ocra", "walrus", "whale");
+		        "whale", "dolphin", "whale", "manatee",
+		        "orca", "walrus", "calf");
+
 		printMe(matchingList);
 	}
 	private static void printMe(List<String> list) {

@@ -9,6 +9,7 @@ public class OddsAndEvens {
 	}
 
 	private static Map<Boolean, List<Integer>> split(List<Integer> list) {
+	    // replace the following line to partition the list into odds and evens
 		return new HashMap<>();
 	}
 }

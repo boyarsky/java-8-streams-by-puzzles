@@ -13,7 +13,7 @@ public class LambdaFillInTheBlanks {
 		//Stream.of("cat", "dot", "fish", "rabbit").filter((p) -> { ____________________ }).forEach(System.out::println);
 		
 		/*
-		 * Hard
+		 * Medium
 		 */
 		
 		//long count = Stream.of("IBM", "Oracle", "Pivotal").filter(___________________).count();
